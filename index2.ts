@@ -175,6 +175,6 @@ v3Output = doSomethingToVector_BETTER(
     vector3Magnitude
 )
 
-console.log("Null output: ", nullOutput)
-console.log("v2 output: ", v2Output)
-console.log("v3 output: ", v3Output)
+// console.log("Null output: ", nullOutput)
+// console.log("v2 output: ", v2Output)
+// console.log("v3 output: ", v3Output)
