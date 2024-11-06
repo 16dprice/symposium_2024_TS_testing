@@ -1,13 +1,6 @@
-type Vector2 = {
-    x: number;
-    y: number;
-}
+type Vector2 = { x: number; y: number; }
 
-type Vector3 = {
-    x: number;
-    y: number;
-    z: number;
-}
+type Vector3 = { x: number; y: number; z: number; }
 
 const vector2Magnitude = (vec: Vector2) => {
     return Math.sqrt(
